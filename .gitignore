@@ -1,0 +1,16 @@
+# Environments
+venv/
+.env
+
+# Large model weights (YOLO)
+*.pt
+*.pth
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS generated files
+.DS_Store
+Thumbs.db
